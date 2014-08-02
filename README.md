@@ -26,7 +26,6 @@
    *width:105px;
    _width:110px;
  }
-
 ```
 與class 搭配，就能換成
 ```CSS
